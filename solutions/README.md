@@ -1,6 +1,4 @@
-# Concurrency Lab 1
-
-## Question 1 - Median Filter
+# Concurrency Lab 1 - Solutions
 
 ## Question 1a
 
