@@ -1,18 +1,16 @@
-# Concurrency Lab 1 - Solutions
-
-## Question 1a
+### Question 1a
 
 See `filter/medianFilter.go`
 
-## Question 1b
+### Question 1b
 
 See `worker` in `filter/medianFilter.go`
 
-## Question 1c
+### Question 1c
 
 See `filter` in `filter/medianFilter.go`
 
-## Question 1d
+### Question 1d
 
 ![Benchmark Bar Chart](filter/results.png "Benchmark")  
 
